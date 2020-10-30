@@ -1,0 +1,26 @@
+### Hi there 👋
+
+This is ***Rishika Gupta***
+
+ - GHCI'20 Scholar
+ - Machine Learning & Data Science Aspirant
+ - Texas Instruments Semi-Finalist
+ - Challenge ACI & Smart India Hackathon '19 Winner
+ - Final Year Computer Science Student from Sardar Patel Institute of Technology.
+ - Personal Website: https://risg99.github.io/
+ - LinkedIn: https://www.linkedin.com/in/rishika-g/
+
+<!--
+**risg99/risg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
