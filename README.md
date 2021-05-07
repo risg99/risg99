@@ -6,7 +6,6 @@ This is ***Rishika Gupta***
  - Also, I am a Final Year Computer Science Student from Sardar Patel Institute of Technology
  - Connect with me via LinkedIn: [rishika-g](https://www.linkedin.com/in/rishika-g/)
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=risg99)
 
 <!--
 **risg99/risg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
